@@ -1,7 +1,7 @@
 
 ![Gradient Background](https://github.com/Monica-Bonu/Images/blob/main/gradient-dark-blue-futuristic-digital-background.jpg?raw=true)
 
-# Hi there, I’m Monica — great that you stopped by! 👋  
+# Hi there, I am Monica. Great you stopped by 👋  
 🌱 Environmental Analyst | Turning Data into Sustainable Action | GIS & LCA Enthusiast
 
 
