@@ -7,7 +7,7 @@
 ## 🎧 About
 
 
-I am an environmental analyst with over two years of experience in urban and environmental planning. My expertise centres around analysing complex data to create impactful sustainability strategies and connecting with stakeholders to foster positive environmental changes. I'm skilled in using tools like ArcGIS, SQL, R, Tableau, CAD, and drone mapping to support informed decision-making. My strong organisational and teamwork skills help me excel in both independent projects and collaborative environments. I'm driven and eager to learn continuously, which allows me to make meaningful contributions to the sustainability initiatives of both businesses and communities.
+I am an aspiring sustianability innovation professional with over two years of experience in urban and environmental planning. My expertise centres around analysing complex data to create impactful sustainability strategies and connecting with stakeholders to foster positive environmental changes. I am skilled in using digital tools like ArcGIS, SQL, R, Tableau, CAD, and drone mapping to support informed decision-making. My strong organisational and teamwork skills help me excel in both independent projects and collaborative environments. 
 
 ---
 
